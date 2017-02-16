@@ -7,11 +7,11 @@ Make a pull request with a file containing your FoM nickname and your experience
 
 ## What can you win?
 
-It's gonna be great, it's gonna be huge. It will be announced soon
+Nothing less than a 500GB Samsung 850 EVO.
 
 ## When will the contest take place on the FoM Stage?
 
-Time to be announced
+Just come to the Viking Bar At 22:30 on Saturday and spot one ot the Atmire guys. One of them is likely to be ranting on the stage.
 
 ## What skills do you need to participate?
 
