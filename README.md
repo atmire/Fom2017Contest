@@ -13,7 +13,7 @@ Nothing less than a 500GB Samsung 850 EVO.
 
 ## When will the contest take place on the FoM Stage?
 
-Just come to the Viking Bar At 22:30 on Saturday and spot one ot the Atmire guys. One of them is likely to be ranting on the stage.
+Just come to the Viking Bar At 22:30 on Saturday and spot one ot the Atmire guys. One of them is likely to be ranting on the stage. At the start, four people will be randomly selected from the people who have issued a pull request to the participants folder in this repository.
 
 ## What skills do you need to participate?
 
