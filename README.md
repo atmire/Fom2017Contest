@@ -3,7 +3,7 @@ As a sponsor, Atmire organizes a funcompo for web developers at FoM 19.0
 
 ## How do you participate?
 
-Make a pull request with a file containing your FoM nickname and your experience as a developer in the participants folder of this repository. Participants will be randomly selected from the people who have sent a pull request against this directory.
+Make a pull request with a file containing your FoM nickname and your experience as a developer in the participants folder of this repository. Four participants will be randomly selected from the people who have sent a pull request against this directory.
 
 ## What can you win?
 
@@ -24,3 +24,7 @@ No, seriously, no. What are you thinking?
 ## But is the presenter not that guy who came up with crazy paincompo's in the past?
 
 Yes he is. But don't worry, you are safe.
+
+## So, what is Atmire doing? 
+
+We help about 130 Universities and research institutions worldwide to spread their knowledge to the entire world. In short; we build kickass web platforms for them. Interested to join? Take a look at our vacancies over here: www.atmire.com/leuven
