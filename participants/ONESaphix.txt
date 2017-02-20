@@ -1,0 +1,8 @@
+ONE. Saphix here.
+
+I'll be participating at FOM 19.0 and I'd like to participate to this challenge.
+
+As lead developer for Sector One I should have sufficient knowledge for this compo.
+I made numerous projects involving HTML, JS (jQuery, react, nodejs), CSS (and their precompilers) and I favor PHP in the backend.
+
+See ya @ FOM
