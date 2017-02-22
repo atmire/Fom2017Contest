@@ -1,0 +1,10 @@
+Hi
+
+I, Nivorya will be attedning FOM and want to participate in the Atmire challange.
+BIO: 	- Software developer and ALM/DevOps enthusiast;
+	- Both mobile and web development mostly on the .Net stack;
+	- Web related experience:
+		- Angular(1.x), Knockout, JQuery, some React; 
+		- ASP.NET Web API, MVC, ...;
+		
+Cya@FoM
