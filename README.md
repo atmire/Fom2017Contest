@@ -3,7 +3,7 @@ As a sponsor, Atmire organizes a funcompo for web developers at FoM 19.0
 
 ## How do you participate?
 
-Make a pull request with a file containing your FoM nickname and your experience as a developer in the participants folder of this repository. Four participants will be randomly selected from the people who have sent a pull request against this directory.
+Make a pull request with a file containing your FoM nickname and your experience as a developer in the participants folder of this repository. **Do this before Saturday Feb 25th 22:00**. Four participants will be randomly selected from the people who have sent a pull request against this directory.
 
 ## What can you win?
 
