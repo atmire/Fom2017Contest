@@ -27,6 +27,12 @@ No, seriously, no. What are you thinking?
 
 Yes he is. But don't worry, you are safe.
 
-## So, what is Atmire doing? 
+## Atmire?
 
-We help about 130 Universities and research institutions worldwide to spread their knowledge to the entire world. In short; we build kickass web platforms for them. Interested to join? Take a look at our vacancies over here: www.atmire.com/leuven
+Atmire is a young international company based in Leuven and New York. We help universities, research organizations, non profits and corporations with sharing their knowledge with the world. In short; we build kickass web platforms for them. 
+
+https://openknowledge.worldbank.org/
+https://www.repository.cam.ac.uk/
+http://espace.curtin.edu.au/
+
+Interested to join? Take a look at our vacancies over here: www.atmire.com/leuven
